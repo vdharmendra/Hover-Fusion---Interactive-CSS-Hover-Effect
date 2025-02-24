@@ -26,39 +26,39 @@ Hover Fusion is an interactive, CSS-only hover effect that splits an image in ha
 # Preview
 <span>SkewScroll Banner Style Section</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220068999/Hover-Fusion-Interactive-CSS-Hover-Effect" target="_blank">
 <img style="width:550px;" src="./img/landingPageCategoriesSection.gif" alt="" /></a>
 <br/>
 <span>SkewScroll Banner Style Section Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220068999/Hover-Fusion-Interactive-CSS-Hover-Effect" target="_blank">
 <img style="width:280px;" src="./img/landingPageCategoriesSection.png" alt="" />
 <img style="width:280px;" src="./img/landingPageCategoriesSectionHover.png" alt="" />
 </a>
 <br/>
 <span>SkewScroll Banner Style Section UI UX Layout Start & End Point</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220068999/Hover-Fusion-Interactive-CSS-Hover-Effect" target="_blank">
 <img style="width:550px;" src="./img/landingPageCategoriesSectionUIUXLayout.gif" alt="" />
 </a>
 
 <br />
 <span>SkewScroll Banner Style Section UI UX Layout</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220068999/Hover-Fusion-Interactive-CSS-Hover-Effect" target="_blank">
 <img style="width:280px;" src="./img/landingPageCategoriesSectionUIUXLayout.png" alt="" />
 <img style="width:280px;" src="./img/landingPageCategoriesSectionHoverUIUXLayout.png" alt="" />
 </a>
 <br />
 <span>SkewScroll Banner Style Mobile Section </span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220068999/Hover-Fusion-Interactive-CSS-Hover-Effect" target="_blank">
 <img style="width:280px;" src="./img/landingPageCategoriesMobileSection.png" alt="" />
 </a>
 <br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220068999/Hover-Fusion-Interactive-CSS-Hover-Effect" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
